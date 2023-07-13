@@ -1,0 +1,1 @@
+- 这只是提供一种基于openAI最新的function_call功能封装的一个类似autoGpt简单项目示例
